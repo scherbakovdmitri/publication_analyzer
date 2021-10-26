@@ -2,7 +2,8 @@
 This program (R shiny web app) analyzes publications found in catalogues of two large Russian libraries. 
 The goal is to display a time chart of found publication based on the search in publication title.
 It also allows downloads and comparison of datasets. 
-Current hosted version is available at https://scherbakovdmitri.shinyapps.io/Publication_analyzer/
+
+**Current hosted version is available at** https://scherbakovdmitri.shinyapps.io/Publication_analyzer/
 
 The program has two modes.
 1) Top part of page - allows to choose a library and enter a search term (for example a name). It returns the found publication with a time chart and a table of most occuring authors where search term is found (in the Title).
